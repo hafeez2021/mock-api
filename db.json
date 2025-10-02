@@ -1,0 +1,706 @@
+{
+  "assignments": [
+    {
+      "id": "assignment_001",
+      "consultant": {
+        "employeeId": "EMP12001",
+        "name": "Wei Ming Tan"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-101",
+        "uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567801"
+      },
+      "effort": "Full-time",
+      "shadow": "false",
+      "account": {
+        "name": "Singapore Aviation Authority"
+      },
+      "project": {
+        "id": "PRJ-SG-001",
+        "opportunityId": "OPP-2025-1201",
+        "name": "Singapore High Flyers",
+        "type": "Development"
+      },
+      "duration": {
+        "startsOn": "2025-01-15",
+        "endsOn": "2026-01-15"
+      }
+    },
+    {
+      "id": "assignment_002",
+      "consultant": {
+        "employeeId": "EMP12002",
+        "name": "Priya Sharma"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-102",
+        "uuid": "b2c3d4e5-f6g7-8901-bcde-f23456789802"
+      },
+      "effort": "Full-time",
+      "shadow": "false",
+      "account": {
+        "name": "Singapore Aviation Authority"
+      },
+      "project": {
+        "id": "PRJ-SG-001",
+        "opportunityId": "OPP-2025-1201",
+        "name": "Singapore High Flyers",
+        "type": "Development"
+      },
+      "duration": {
+        "startsOn": "2025-02-01",
+        "endsOn": "2026-02-01"
+      }
+    },
+    {
+      "id": "assignment_003",
+      "consultant": {
+        "employeeId": "EMP12003",
+        "name": "Li Jun Wang"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-103",
+        "uuid": "c3d4e5f6-g7h8-9012-cdef-345678901803"
+      },
+      "effort": "Part-time (75%)",
+      "shadow": "true",
+      "account": {
+        "name": "Singapore Aviation Authority"
+      },
+      "project": {
+        "id": "PRJ-SG-001",
+        "opportunityId": "OPP-2025-1201",
+        "name": "Singapore High Flyers",
+        "type": "Development"
+      },
+      "duration": {
+        "startsOn": "2025-03-01",
+        "endsOn": "2026-03-01"
+      }
+    },
+    {
+      "id": "assignment_004",
+      "consultant": {
+        "employeeId": "EMP12004",
+        "name": "Sarah Lim"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-104",
+        "uuid": "d4e5f6g7-h8i9-0123-defg-456789012804"
+      },
+      "effort": "Full-time",
+      "shadow": "false",
+      "account": {
+        "name": "Singapore Aviation Authority"
+      },
+      "project": {
+        "id": "PRJ-SG-001",
+        "opportunityId": "OPP-2025-1201",
+        "name": "Singapore High Flyers",
+        "type": "Development"
+      },
+      "duration": {
+        "startsOn": "2025-01-01",
+        "endsOn": "2026-01-01"
+      }
+    },
+    {
+      "id": "assignment_005",
+      "consultant": {
+        "employeeId": "EMP12005",
+        "name": "Raj Kumar"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-105",
+        "uuid": "e5f6g7h8-i9j0-1234-efgh-567890123805"
+      },
+      "effort": "Part-time (50%)",
+      "shadow": "false",
+      "account": {
+        "name": "Singapore Aviation Authority"
+      },
+      "project": {
+        "id": "PRJ-SG-001",
+        "opportunityId": "OPP-2025-1201",
+        "name": "Singapore High Flyers",
+        "type": "Development"
+      },
+      "duration": {
+        "startsOn": "2025-02-15",
+        "endsOn": "2026-02-15"
+      }
+    },
+    {
+      "id": "assignment_006",
+      "consultant": {
+        "employeeId": "EMP12006",
+        "name": "Michelle Chen"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-106",
+        "uuid": "f6g7h8i9-j0k1-2345-fghi-678901234806"
+      },
+      "effort": "Full-time",
+      "shadow": "false",
+      "account": {
+        "name": "Singapore Aviation Authority"
+      },
+      "project": {
+        "id": "PRJ-SG-001",
+        "opportunityId": "OPP-2025-1201",
+        "name": "Singapore High Flyers",
+        "type": "Development"
+      },
+      "duration": {
+        "startsOn": "2025-03-15",
+        "endsOn": "2026-03-15"
+      }
+    },
+    {
+      "id": "assignment_007",
+      "consultant": {
+        "employeeId": "EMP12007",
+        "name": "Ahmad Rahman"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-107",
+        "uuid": "g7h8i9j0-k1l2-3456-ghij-789012345807"
+      },
+      "effort": "Part-time (25%)",
+      "shadow": "true",
+      "account": {
+        "name": "Singapore Aviation Authority"
+      },
+      "project": {
+        "id": "PRJ-SG-001",
+        "opportunityId": "OPP-2025-1201",
+        "name": "Singapore High Flyers",
+        "type": "Development"
+      },
+      "duration": {
+        "startsOn": "2025-04-01",
+        "endsOn": "2026-04-01"
+      }
+    },
+    {
+      "id": "assignment_008",
+      "consultant": {
+        "employeeId": "EMP12008",
+        "name": "Jessica Ng"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-108",
+        "uuid": "h8i9j0k1-l2m3-4567-hijk-890123456808"
+      },
+      "effort": "Full-time",
+      "shadow": "false",
+      "account": {
+        "name": "Singapore Aviation Authority"
+      },
+      "project": {
+        "id": "PRJ-SG-001",
+        "opportunityId": "OPP-2025-1201",
+        "name": "Singapore High Flyers",
+        "type": "Development"
+      },
+      "duration": {
+        "startsOn": "2025-01-30",
+        "endsOn": "2026-01-30"
+      }
+    },
+    {
+      "id": "assignment_009",
+      "consultant": {
+        "employeeId": "EMP12009",
+        "name": "David Teo"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-109",
+        "uuid": "i9j0k1l2-m3n4-5678-ijkl-901234567809"
+      },
+      "effort": "Part-time (75%)",
+      "shadow": "false",
+      "account": {
+        "name": "Singapore Aviation Authority"
+      },
+      "project": {
+        "id": "PRJ-SG-001",
+        "opportunityId": "OPP-2025-1201",
+        "name": "Singapore High Flyers",
+        "type": "Development"
+      },
+      "duration": {
+        "startsOn": "2025-05-01",
+        "endsOn": "2026-05-01"
+      }
+    },
+    {
+      "id": "assignment_010",
+      "consultant": {
+        "employeeId": "EMP12010",
+        "name": "Karen Wong"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-110",
+        "uuid": "j0k1l2m3-n4o5-6789-jklm-012345678810"
+      },
+      "effort": "Full-time",
+      "shadow": "false",
+      "account": {
+        "name": "Singapore Aviation Authority"
+      },
+      "project": {
+        "id": "PRJ-SG-001",
+        "opportunityId": "OPP-2025-1201",
+        "name": "Singapore High Flyers",
+        "type": "Development"
+      },
+      "duration": {
+        "startsOn": "2025-06-01",
+        "endsOn": "2026-06-01"
+      }
+    },
+    {
+      "id": "assignment_011",
+      "consultant": {
+        "employeeId": "EMP12011",
+        "name": "Marcus Loh"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-201",
+        "uuid": "k1l2m3n4-o5p6-7890-klmn-123456789811"
+      },
+      "effort": "Full-time",
+      "shadow": "false",
+      "account": {
+        "name": "Singapore Transport Ministry"
+      },
+      "project": {
+        "id": "PRJ-SG-002",
+        "opportunityId": "OPP-2025-1202",
+        "name": "Singapore Low Flyers",
+        "type": "Implementation"
+      },
+      "duration": {
+        "startsOn": "2025-01-20",
+        "endsOn": "2026-01-20"
+      }
+    },
+    {
+      "id": "assignment_012",
+      "consultant": {
+        "employeeId": "EMP12012",
+        "name": "Siti Aisyah"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-202",
+        "uuid": "l2m3n4o5-p6q7-8901-lmno-234567890812"
+      },
+      "effort": "Part-time (50%)",
+      "shadow": "true",
+      "account": {
+        "name": "Singapore Transport Ministry"
+      },
+      "project": {
+        "id": "PRJ-SG-002",
+        "opportunityId": "OPP-2025-1202",
+        "name": "Singapore Low Flyers",
+        "type": "Implementation"
+      },
+      "duration": {
+        "startsOn": "2025-02-10",
+        "endsOn": "2026-02-10"
+      }
+    },
+    {
+      "id": "assignment_013",
+      "consultant": {
+        "employeeId": "EMP12013",
+        "name": "James Tan"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-203",
+        "uuid": "m3n4o5p6-q7r8-9012-mnop-345678901813"
+      },
+      "effort": "Full-time",
+      "shadow": "false",
+      "account": {
+        "name": "Singapore Transport Ministry"
+      },
+      "project": {
+        "id": "PRJ-SG-002",
+        "opportunityId": "OPP-2025-1202",
+        "name": "Singapore Low Flyers",
+        "type": "Implementation"
+      },
+      "duration": {
+        "startsOn": "2025-03-10",
+        "endsOn": "2026-03-10"
+      }
+    },
+    {
+      "id": "assignment_014",
+      "consultant": {
+        "employeeId": "EMP12014",
+        "name": "Anna Liu"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-204",
+        "uuid": "n4o5p6q7-r8s9-0123-nopq-456789012814"
+      },
+      "effort": "Part-time (75%)",
+      "shadow": "false",
+      "account": {
+        "name": "Singapore Transport Ministry"
+      },
+      "project": {
+        "id": "PRJ-SG-002",
+        "opportunityId": "OPP-2025-1202",
+        "name": "Singapore Low Flyers",
+        "type": "Implementation"
+      },
+      "duration": {
+        "startsOn": "2025-04-15",
+        "endsOn": "2026-04-15"
+      }
+    },
+    {
+      "id": "assignment_015",
+      "consultant": {
+        "employeeId": "EMP12015",
+        "name": "Ravi Patel"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-205",
+        "uuid": "o5p6q7r8-s9t0-1234-opqr-567890123815"
+      },
+      "effort": "Full-time",
+      "shadow": "false",
+      "account": {
+        "name": "Singapore Transport Ministry"
+      },
+      "project": {
+        "id": "PRJ-SG-002",
+        "opportunityId": "OPP-2025-1202",
+        "name": "Singapore Low Flyers",
+        "type": "Implementation"
+      },
+      "duration": {
+        "startsOn": "2025-05-20",
+        "endsOn": "2026-05-20"
+      }
+    },
+    {
+      "id": "assignment_016",
+      "consultant": {
+        "employeeId": "EMP12016",
+        "name": "Grace Koh"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-206",
+        "uuid": "p6q7r8s9-t0u1-2345-pqrs-678901234816"
+      },
+      "effort": "Part-time (25%)",
+      "shadow": "true",
+      "account": {
+        "name": "Singapore Transport Ministry"
+      },
+      "project": {
+        "id": "PRJ-SG-002",
+        "opportunityId": "OPP-2025-1202",
+        "name": "Singapore Low Flyers",
+        "type": "Implementation"
+      },
+      "duration": {
+        "startsOn": "2025-06-15",
+        "endsOn": "2026-06-15"
+      }
+    },
+    {
+      "id": "assignment_017",
+      "consultant": {
+        "employeeId": "EMP12017",
+        "name": "Benjamin Yap"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-207",
+        "uuid": "q7r8s9t0-u1v2-3456-qrst-789012345817"
+      },
+      "effort": "Full-time",
+      "shadow": "false",
+      "account": {
+        "name": "Singapore Transport Ministry"
+      },
+      "project": {
+        "id": "PRJ-SG-002",
+        "opportunityId": "OPP-2025-1202",
+        "name": "Singapore Low Flyers",
+        "type": "Implementation"
+      },
+      "duration": {
+        "startsOn": "2025-07-01",
+        "endsOn": "2026-07-01"
+      }
+    },
+    {
+      "id": "assignment_018",
+      "consultant": {
+        "employeeId": "EMP12018",
+        "name": "Vanessa Goh"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-208",
+        "uuid": "r8s9t0u1-v2w3-4567-rstu-890123456818"
+      },
+      "effort": "Part-time (50%)",
+      "shadow": "false",
+      "account": {
+        "name": "Singapore Transport Ministry"
+      },
+      "project": {
+        "id": "PRJ-SG-002",
+        "opportunityId": "OPP-2025-1202",
+        "name": "Singapore Low Flyers",
+        "type": "Implementation"
+      },
+      "duration": {
+        "startsOn": "2025-08-01",
+        "endsOn": "2026-08-01"
+      }
+    },
+    {
+      "id": "assignment_019",
+      "consultant": {
+        "employeeId": "EMP12019",
+        "name": "Daniel Lee"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-209",
+        "uuid": "s9t0u1v2-w3x4-5678-stuv-901234567819"
+      },
+      "effort": "Full-time",
+      "shadow": "false",
+      "account": {
+        "name": "Singapore Transport Ministry"
+      },
+      "project": {
+        "id": "PRJ-SG-002",
+        "opportunityId": "OPP-2025-1202",
+        "name": "Singapore Low Flyers",
+        "type": "Implementation"
+      },
+      "duration": {
+        "startsOn": "2025-09-01",
+        "endsOn": "2026-09-01"
+      }
+    },
+    {
+      "id": "assignment_020",
+      "consultant": {
+        "employeeId": "EMP12020",
+        "name": "Rachel Sim"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-210",
+        "uuid": "t0u1v2w3-x4y5-6789-tuvw-012345678820"
+      },
+      "effort": "Part-time (75%)",
+      "shadow": "true",
+      "account": {
+        "name": "Singapore Transport Ministry"
+      },
+      "project": {
+        "id": "PRJ-SG-002",
+        "opportunityId": "OPP-2025-1202",
+        "name": "Singapore Low Flyers",
+        "type": "Implementation"
+      },
+      "duration": {
+        "startsOn": "2025-10-01",
+        "endsOn": "2026-10-01"
+      }
+    },
+    {
+      "id": "assignment_021",
+      "consultant": {
+        "employeeId": "EMP12021",
+        "name": "Andrew Thompson"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-301",
+        "uuid": "u1v2w3x4-y5z6-7890-uvwx-123456789021"
+      },
+      "effort": "Full-time",
+      "shadow": "false",
+      "account": {
+        "name": "Australian Mining Corp"
+      },
+      "project": {
+        "id": "PRJ-AU-001",
+        "opportunityId": "OPP-2025-1301",
+        "name": "Outback Digital Transformation",
+        "type": "Transformation"
+      },
+      "duration": {
+        "startsOn": "2025-01-10",
+        "endsOn": "2026-01-10"
+      }
+    },
+    {
+      "id": "assignment_022",
+      "consultant": {
+        "employeeId": "EMP12022",
+        "name": "Emma Johnson"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-302",
+        "uuid": "v2w3x4y5-z6a7-8901-vwxy-234567890122"
+      },
+      "effort": "Part-time (75%)",
+      "shadow": "false",
+      "account": {
+        "name": "Australian Mining Corp"
+      },
+      "project": {
+        "id": "PRJ-AU-001",
+        "opportunityId": "OPP-2025-1301",
+        "name": "Outback Digital Transformation",
+        "type": "Transformation"
+      },
+      "duration": {
+        "startsOn": "2025-02-20",
+        "endsOn": "2026-02-20"
+      }
+    },
+    {
+      "id": "assignment_023",
+      "consultant": {
+        "employeeId": "EMP12023",
+        "name": "Liam Mitchell"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-303",
+        "uuid": "w3x4y5z6-a7b8-9012-wxyz-345678901223"
+      },
+      "effort": "Full-time",
+      "shadow": "true",
+      "account": {
+        "name": "Australian Mining Corp"
+      },
+      "project": {
+        "id": "PRJ-AU-001",
+        "opportunityId": "OPP-2025-1301",
+        "name": "Outback Digital Transformation",
+        "type": "Transformation"
+      },
+      "duration": {
+        "startsOn": "2025-03-05",
+        "endsOn": "2026-03-05"
+      }
+    },
+    {
+      "id": "assignment_024",
+      "consultant": {
+        "employeeId": "EMP12024",
+        "name": "Olivia Wilson"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-304",
+        "uuid": "x4y5z6a7-b8c9-0123-xyza-456789012324"
+      },
+      "effort": "Part-time (50%)",
+      "shadow": "false",
+      "account": {
+        "name": "Australian Mining Corp"
+      },
+      "project": {
+        "id": "PRJ-AU-001",
+        "opportunityId": "OPP-2025-1301",
+        "name": "Outback Digital Transformation",
+        "type": "Transformation"
+      },
+      "duration": {
+        "startsOn": "2025-04-10",
+        "endsOn": "2026-04-10"
+      }
+    },
+    {
+      "id": "assignment_025",
+      "consultant": {
+        "employeeId": "EMP12025",
+        "name": "Jack Davis"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-305",
+        "uuid": "y5z6a7b8-c9d0-1234-yzab-567890123425"
+      },
+      "effort": "Full-time",
+      "shadow": "false",
+      "account": {
+        "name": "Australian Mining Corp"
+      },
+      "project": {
+        "id": "PRJ-AU-001",
+        "opportunityId": "OPP-2025-1301",
+        "name": "Outback Digital Transformation",
+        "type": "Transformation"
+      },
+      "duration": {
+        "startsOn": "2025-05-15",
+        "endsOn": "2026-05-15"
+      }
+    },
+    {
+      "id": "assignment_026",
+      "consultant": {
+        "employeeId": "EMP12026",
+        "name": "Charlotte Brown"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-306",
+        "uuid": "z6a7b8c9-d0e1-2345-zabc-678901234526"
+      },
+      "effort": "Part-time (25%)",
+      "shadow": "true",
+      "account": {
+        "name": "Australian Mining Corp"
+      },
+      "project": {
+        "id": "PRJ-AU-001",
+        "opportunityId": "OPP-2025-1301",
+        "name": "Outback Digital Transformation",
+        "type": "Transformation"
+      },
+      "duration": {
+        "startsOn": "2025-06-20",
+        "endsOn": "2026-06-20"
+      }
+    },
+    {
+      "id": "assignment_027",
+      "consultant": {
+        "employeeId": "EMP12027",
+        "name": "Noah Martinez"
+      },
+      "staffingRequest": {
+        "id": "SR-2025-307",
+        "uuid": "a7b8c9d0-e1f2-3456-abcd-789012345627"
+      },
+      "effort": "Full-time",
+      "shadow": "false",
+      "account": {
+        "name": "Australian Mining Corp"
+      },
+      "project": {
+        "id": "PRJ-AU-001",
+        "opportunityId": "OPP-2025-1301",
+        "name": "Outback Digital Transformation",
+        "type": "Transformation"
+      },
+      "duration": {
+        "startsOn": "2025-07-25",
+        "endsOn": "2026-07-25"
+      }
+    }
+  ]
+}
